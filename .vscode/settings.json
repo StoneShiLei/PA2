@@ -1,0 +1,4 @@
+{
+    "java.project.sourcePaths": ["starter"],
+    "java.project.outputPath": "bin"
+}
